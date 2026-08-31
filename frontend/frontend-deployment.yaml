@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ghcr.io/arvind1297/aks-app-frontend:v4
+          image: ghcr.io/arvind1297/aks-app-frontend:v5
           imagePullPolicy: Always
 
           ports:
